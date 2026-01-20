@@ -1,3 +1,3 @@
-# Hello world
+# Simple project for playing with github pages
 
-test
+Includes Github Action workflows for automatic pages deployment.
